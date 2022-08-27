@@ -1,5 +1,4 @@
-//import { RecipeType } from "../typings"
-import * as React from 'react'
+import React from 'react'
 import { RecipeType } from '../typings'
 const Recipe = (props:RecipeType) => {
     return(
