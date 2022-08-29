@@ -1,5 +1,5 @@
 import  React from 'react'
-import Layout from '../components/navbar/layout'
+import Layout from '../components/headLayout/layout'
  const AboutPage = () => {
     return(
         <main>

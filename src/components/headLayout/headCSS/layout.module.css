@@ -1,0 +1,21 @@
+.title {
+  background: -webkit-linear-gradient(rgb(244, 240, 234), #000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color:rgba(59, 11, 0, 0.329);
+  font-family: main;
+  font-size: 4rem;
+}
+
+.container{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.heading {
+  color: rebeccapurple;
+}
+
+body{
+  background-color: rgb(244, 240, 234);
+}

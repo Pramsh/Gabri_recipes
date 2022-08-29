@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 const Recipesframe = () => {
     return(
         <div>
-            <Link to="/recipes">Contatti</Link>
+            <Link to="/recipes">Ricette</Link>
         </div>
     )
 }
