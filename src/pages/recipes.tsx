@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Recipe from '../components/recipe'
-import Layout from '../components/navbar/layout'
+import Layout from '../components/headLayout/layout'
 const ShowRecipes = () => {
     return(
         <div>

@@ -2,7 +2,7 @@
 // Step 1: Import React
 import * as React from 'react'
 import {Link } from 'gatsby'
-import Layout from '../components/navbar/layout'
+import Layout from '../components/headLayout/layout'
 // Step 2: Define your component
 const IndexPage = () => {
   return (

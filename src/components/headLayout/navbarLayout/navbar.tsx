@@ -3,7 +3,7 @@ import React from "react";
 import HomepageFrame from "./nav_frames/home_page_frame";
 import Recipesframe from "./nav_frames/recipes_frame";
 import Aboutframe from "./nav_frames/about_frame";
-import { nav_links,nav_link_item} from '../css/navbar.module.css'
+import { nav_links,nav_link_item} from '../headCSS/navbar.module.css'
 const Navbar = () => {
     return(
     <nav>
